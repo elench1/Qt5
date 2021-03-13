@@ -1,0 +1,1 @@
+pyuic5 tracker.ui -o tracker.py
